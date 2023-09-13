@@ -44,3 +44,7 @@ allow xray-windows-amd64.exe & allow 3x-ui-windows.exe
 
 # Issue
 If you have any other questions open an issue.
+
+# Get SSL
+you can use fake cert inside self_certificate to bypass GFW censorship or make your own certificate using openssl.exe
+client must check "allow Insecure" to accept these certificate because its not authorized by Root-CA
