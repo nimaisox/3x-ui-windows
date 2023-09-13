@@ -18,6 +18,7 @@ config file /bin/config.json
 db /bin/x-ui.db
 
 
+
 # Default config panel
 
 username : admin
@@ -28,7 +29,17 @@ port : 2053
 
 Open browser http://127.0.0.1:2053
 
-# Windows Firewall
+# Password change
+
+After logging in be sure to change panel username, password and port.
+
+path = bin/x-ui.db
+
+Note: you can change the password from panel too.
+
+![UPchange](https://github.com/nimaisox/3x-ui-windows/blob/main/media/UPchange.png?raw=true)
+
+# Windows firewall
 allow xray-windows-amd64.exe & allow 3x-ui-windows.exe
 
 # Issue
