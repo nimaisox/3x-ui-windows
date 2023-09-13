@@ -32,4 +32,4 @@ Open browser http://127.0.0.1:2053
 allow xray-windows-amd64.exe & allow 3x-ui-windows.exe
 
 # Issue
-If you have any other questions open an issue
+If you have any other questions open an issue.
