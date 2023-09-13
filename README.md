@@ -29,7 +29,7 @@ port : 2053
 
 Open browser http://127.0.0.1:2053
 
-# Password change
+# Security
 
 After logging in be sure to change panel username, password and port.
 
