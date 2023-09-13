@@ -25,3 +25,6 @@ password : admin
 port : 2053
 
 Open browser http://127.0.0.1:2053
+
+# Windows Firewall
+allow xray-windows-amd64.exe & allow 3x-ui-windows.exe
