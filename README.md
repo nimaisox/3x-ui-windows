@@ -12,11 +12,13 @@ install go https://go.dev/dl/go1.21.1.windows-amd64.msi
 run 3x-ui-windows.exe
 
 
-config /bin/config.json
+# information
+config file /bin/config.json
 
 db /bin/x-ui.db
 
-default config panel
+
+# default config panel
 
 username : admin
 
